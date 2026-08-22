@@ -10,7 +10,7 @@ The Mac app that turns Claude Code into a workspace.
 
 ### [Download for macOS &nbsp;→](https://dl.mooring.sh/Mooring.dmg)
 
-<sub>macOS 26 · Apple silicon · early release</sub>
+<sub>macOS 26 · Apple silicon</sub>
 
 </div>
 
@@ -32,7 +32,7 @@ changed and why.
 
 <div align="center">
 
-### [Get the early release &nbsp;→](https://dl.mooring.sh/Mooring.dmg)
+### [Download Mooring &nbsp;→](https://dl.mooring.sh/Mooring.dmg)
 
 Updates itself, so you download it once.
 
