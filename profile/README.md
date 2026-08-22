@@ -40,6 +40,6 @@ Updates itself, so you download it once.
 
 [mooring.sh](https://mooring.sh) &nbsp;·&nbsp; [hello@mooring.sh](mailto:hello@mooring.sh)
 
-<sub>A <a href="https://stratagems.com">Digital Stratagems Limited</a> product.</sub>
+<sub>A <a href="https://stratagems.com">Stratagems</a> product.</sub>
 
 </div>
