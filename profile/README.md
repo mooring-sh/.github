@@ -1,57 +1,45 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mooring-sh/.github/main/assets/mooring-icon.png" alt="" width="120" height="120">
+<img src="https://raw.githubusercontent.com/mooring-sh/.github/main/assets/mooring-icon.png" alt="" width="112" height="112">
 
 # Mooring
 
-**A Mac-native productivity tool for Claude Code.**
+### Ship more from every Claude session.
 
-Persistent tmux-backed sessions, an on-device voice queue, and the scaffolding
-your work already needs — worktrees, a card backlog, and a branch-aware file tree.
+The Mac app that turns Claude Code into a workspace.
 
-[**Download for macOS**](https://dl.mooring.sh/Mooring.dmg) &nbsp;·&nbsp;
-[mooring.sh](https://mooring.sh) &nbsp;·&nbsp;
-[hello@mooring.sh](mailto:hello@mooring.sh)
+### [Download for macOS &nbsp;→](https://dl.mooring.sh/Mooring.dmg)
+
+<sub>macOS 26 · Apple silicon · early release</sub>
 
 </div>
 
----
+<br>
 
-## What it is
+**Your work doesn't stop when you do.**
+Quit the app. Close the lid. Come back tomorrow. Your sessions are still
+running, exactly where you left them.
 
-Mooring is a terminal built around the way people actually work with Claude
-Code. Sessions are tmux-backed, so quitting the app doesn't end them — the
-work keeps running and Mooring reattaches when you come back. Around that sits
-the scaffolding the work needs: git worktrees, a card backlog with full change
-history, a file tree that shows what changed on the branch, and voice capture
-that runs on-device.
+**Think out loud.**
+A voice queue catches the idea while your hands are busy — and it runs on your
+Mac, so nothing you say leaves it.
 
-Built for Apple silicon. Signed and notarized by Digital Stratagems Limited,
-so it installs without a Gatekeeper detour.
+**Never lose the thread.**
+Every project, branch and task in one window, with a full history of what
+changed and why.
 
-## Install
-
-Download the disk image and drag Mooring to your Applications folder:
-
-**[dl.mooring.sh/Mooring.dmg](https://dl.mooring.sh/Mooring.dmg)** — always the current release.
-
-**Requirements:** macOS 26 (Tahoe) or later, Apple silicon.
-
-The app keeps itself up to date, so you only download it once.
-
-## About this organisation
-
-Mooring's application source is not public. This organisation hosts Mooring's
-public-facing distribution and project surfaces:
-
-| Repository | Purpose |
-| --- | --- |
-| [`.github`](https://github.com/mooring-sh/.github) | This profile, brand assets, shared community health files. |
-
-## Contact
-
-Questions, bug reports and feedback: **[hello@mooring.sh](mailto:hello@mooring.sh)**
+<br>
 
 <div align="center">
+
+### [Get the early release &nbsp;→](https://dl.mooring.sh/Mooring.dmg)
+
+Updates itself, so you download it once.
+
+<br>
+
+[mooring.sh](https://mooring.sh) &nbsp;·&nbsp; [hello@mooring.sh](mailto:hello@mooring.sh)
+
 <sub>A <a href="https://stratagems.com">Digital Stratagems Limited</a> product.</sub>
+
 </div>
