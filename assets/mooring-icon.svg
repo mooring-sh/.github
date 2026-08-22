@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!--
+    Mooring app icon — concept "K" (terminal prompt + faint mooring line on
+    a deep burgundy field, apricot foreground).
+
+    Source of truth for the AppIcon set. Rendered to PNG at every size the
+    asset catalog references via `scripts/render-app-icon.sh`.
+
+    Coordinate system is the standard 1024x1024 macOS-icon canvas. The
+    rounded-rect clip applies the Big Sur+ squircle so the final PNG is
+    pre-masked (no reliance on macOS to apply a mask at display time).
+  -->
+  <defs>
+    <linearGradient id="mooring-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5d2a3a"/>
+      <stop offset="1" stop-color="#8a4153"/>
+    </linearGradient>
+    <clipPath id="mooring-squircle">
+      <rect x="0" y="0" width="1024" height="1024" rx="224" ry="224"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#mooring-squircle)">
+    <!-- burgundy field -->
+    <rect width="1024" height="1024" fill="url(#mooring-bg)"/>
+    <!-- chevron prompt -->
+    <path d="M 250 320 L 540 512 L 250 704"
+          fill="none" stroke="#ffd9a8" stroke-width="100"
+          stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- cursor underscore -->
+    <rect x="560" y="660" width="240" height="56" rx="20" fill="#ffd9a8"/>
+    <!-- faint mooring line at the bottom -->
+    <path d="M 192 850 Q 380 800 512 850 T 832 850"
+          fill="none" stroke="#ffd9a8" stroke-opacity="0.45"
+          stroke-width="28" stroke-linecap="round"/>
+  </g>
+</svg>
