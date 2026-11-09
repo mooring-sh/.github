@@ -20,8 +20,9 @@ Mooring is a free Mac app, the agentic development environment (ADE) for Claude 
 <br>
 
 **Your work doesn't stop when you do.**
-Quit the app. Close the lid. Come back tomorrow. Your sessions are still
-running, exactly where you left them.
+Quit Mooring and your Claude sessions keep running. Open it again and they're
+right where you left them. If your Mac sleeps or restarts, your tabs come back
+with each conversation ready to resume.
 
 **Think out loud.**
 A voice queue catches the idea while your hands are busy, and it runs on your
