@@ -6,9 +6,9 @@
 
 ### Ship more from every Claude session.
 
-The Mac app that turns Claude Code into a workspace.
+Mooring is a free Mac app, the agentic development environment (ADE) for Claude Code.
 
-### [Download for macOS &nbsp;→](https://dl.mooring.sh/Mooring.dmg)
+### [Download for macOS &nbsp;→](https://mooring.sh/download)
 
 <sub>macOS 26 · Apple silicon</sub>
 
@@ -21,7 +21,7 @@ Quit the app. Close the lid. Come back tomorrow. Your sessions are still
 running, exactly where you left them.
 
 **Think out loud.**
-A voice queue catches the idea while your hands are busy — and it runs on your
+A voice queue catches the idea while your hands are busy, and it runs on your
 Mac, so nothing you say leaves it.
 
 **Never lose the thread.**
@@ -32,7 +32,7 @@ changed and why.
 
 <div align="center">
 
-### [Download Mooring &nbsp;→](https://dl.mooring.sh/Mooring.dmg)
+### [Download Mooring &nbsp;→](https://mooring.sh/download)
 
 Updates itself, so you download it once.
 
