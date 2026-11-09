@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mooring-sh/.github/main/assets/mooring-icon.png" alt="" width="112" height="112">
+<img src="https://raw.githubusercontent.com/mooring-sh/.github/main/assets/assistant.png" alt="The Mooring Assistant waving, looking out, cheering and saluting" width="120" height="96">
 
 # Mooring
 
